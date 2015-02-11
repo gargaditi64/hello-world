@@ -1,2 +1,2 @@
 # hello-world
-Git tutorial
+Git tutorial, making edits in the new branch. 
